@@ -4,7 +4,7 @@
 ---
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="statics/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dieguliomachado/" target="_blank"><img height="30" src="statics/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://diegulio.github.io" target="_blank"><img height="30" src="statics/raccoon.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
