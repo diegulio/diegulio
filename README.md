@@ -22,6 +22,11 @@ My name is Diego Machado, as know as diegulio. I’m Data Scientist passionate a
 - 🍝 **[LLM-Recipe](https://github.com/diegulio/llm-recipe)**: LLM-powered app which brings to you the ingredients and recipe to make a specific food
 - 👾 **[Pelao Invaders](https://github.com/diegulio/Pelao_invaders)**: Game made with pygame replicating space invaders
 
+## Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Some Tools I feel good with
 
 
