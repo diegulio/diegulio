@@ -22,7 +22,7 @@ My name is Diego Machado, as know as diegulio. I’m Data Scientist passionate a
 - 🍝 **[LLM-Recipe](https://github.com/diegulio/llm-recipe)**: LLM-powered app which brings to you the ingredients and recipe to make a specific food
 - 👾 **[Pelao Invaders](https://github.com/diegulio/Pelao_invaders)**: Game made with pygame replicating space invaders
 
-## Blog posts
+## Last Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Iniciando en LLM: Crea tu primera aplicación con LangChain y ChatGPT](https://diegulio.github.io/posts/llm-recipe/main.html)
