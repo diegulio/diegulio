@@ -2,6 +2,8 @@ name: Latest blog post workflow
 on: 
     schedule:
         - cron: '0 * * * *'
+    workflow_dispatch:
+    
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
@@ -11,4 +13,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://diegulio.github.io/index.xml"
+                feed_list: "https://diegulio.github.io/index.xml"   
