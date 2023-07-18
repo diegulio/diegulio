@@ -33,19 +33,10 @@ My name is Diego Machado, as know as diegulio. I’m Data Scientist passionate a
 
 # Test
 <!-- blog-post-list:start -->
-## diegulio\'s blog🎯
-
-A blog about Machine Learning
-
-[Read more](https://diegulio.github.io/index.html)
-> Last updated: Tuesday, July 18, 2023 at 10:36:48 PM
-
-> Showing 4 of 4 posts.
-
-[![Iniciando en LLM: Crea tu primera aplicación con LangChain y ChatGPT](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/diegulio's_blog🎯/Iniciando_en_LLM__Crea_tu_primera_aplicación_con_LangChain_y_ChatGPT.svg)](https://diegulio.github.io/posts/llm-recipe/main.html)
-[![BirdClef 2023 Competition](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/diegulio's_blog🎯/BirdClef_2023_Competition.svg)](https://diegulio.github.io/posts/birdclef2023/main.html)
-[![Back To Sit](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/diegulio's_blog🎯/Back_To_Sit.svg)](https://diegulio.github.io/posts/back_to_sit/main.html)
-[![Identificando desastres en Twitter con NLP](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/diegulio's_blog🎯/Identificando_desastres_en_Twitter_con_NLP.svg)](https://diegulio.github.io/posts/kaggle_nlp_disaster/main.html)
+[![diegulio’s blog🎯 - Iniciando en LLM: Crea tu primera aplicación con LangChain y ChatGPT](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/diegulio's_blog🎯/diegulio’s_blog🎯_-_Iniciando_en_LLM__Crea_tu_primera_aplicación_con_LangChain_y_ChatGPT.svg)](https://diegulio.github.io/posts/llm-recipe/main.html)
+[![diegulio’s blog🎯 - BirdClef 2023 Competition](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/diegulio's_blog🎯/diegulio’s_blog🎯_-_BirdClef_2023_Competition.svg)](https://diegulio.github.io/posts/birdclef2023/main.html)
+[![diegulio’s blog🎯 - Back To Sit](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/diegulio's_blog🎯/diegulio’s_blog🎯_-_Back_To_Sit.svg)](https://diegulio.github.io/posts/back_to_sit/main.html)
+[![diegulio’s blog🎯 - Identificando desastres en Twitter con NLP](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/diegulio's_blog🎯/diegulio’s_blog🎯_-_Identificando_desastres_en_Twitter_con_NLP.svg)](https://diegulio.github.io/posts/kaggle_nlp_disaster/main.html)
 
 
 <!-- blog-post-list:end -->
