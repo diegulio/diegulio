@@ -31,6 +31,10 @@ My name is Diego Machado, as know as diegulio. I’m Data Scientist passionate a
 - [Identificando desastres en Twitter con NLP](https://diegulio.github.io/posts/kaggle_nlp_disaster/main.html)
 <!-- BLOG-POST-LIST:END -->
 
+# Test
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
+
 ## Some Tools I feel good with 🔨
 
 
