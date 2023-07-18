@@ -16,6 +16,7 @@ jobs:
           feed_urls: "https://diegulio.github.io/index.xml" 
           show_feed_data: false
           show_feed_title: false
+          show_feed_description: false
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
