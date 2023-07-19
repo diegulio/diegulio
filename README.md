@@ -2,8 +2,8 @@
 # Hi There!  **👋**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/dieguliomachado/" target="_blank"><img height="30" src="statics/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://diegulio.github.io" target="_blank"><img height="30" src="statics/logo.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dieguliomachado/" target="_blank"><img height="60" src="statics/linkedin.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://diegulio.github.io" target="_blank"><img height="60" src="statics/logo.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 My name is Diego Machado, as know as diegulio. I’m Data Scientist passionate about Artificial Intelligence. Some of the areas where I have expertise are:
