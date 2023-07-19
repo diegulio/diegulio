@@ -25,13 +25,8 @@ My name is Diego Machado, as know as diegulio. I’m Data Scientist passionate a
 ## Latest Blog posts 🦝 
 
 <!-- BLOG-POST-LIST:START -->
-- [Iniciando en LLM: Crea tu primera aplicación con LangChain y ChatGPT](https://diegulio.github.io/posts/llm-recipe/main.html)
-- [BirdClef 2023 Competition](https://diegulio.github.io/posts/birdclef2023/main.html)
-- [Back To Sit](https://diegulio.github.io/posts/back_to_sit/main.html)
-- [Identificando desastres en Twitter con NLP](https://diegulio.github.io/posts/kaggle_nlp_disaster/main.html)
+<!-- Workflow 1 -->
 <!-- BLOG-POST-LIST:END -->
-
-# Test
 <!-- blog-post-list:start -->
 [![Iniciando en LLM: Crea tu primera aplicación con LangChain y ChatGPT](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/diegulio's_blog🎯/Iniciando_en_LLM__Crea_tu_primera_aplicación_con_LangChain_y_ChatGPT.svg)](https://diegulio.github.io/posts/llm-recipe/main.html)
 [![BirdClef 2023 Competition](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/diegulio's_blog🎯/BirdClef_2023_Competition.svg)](https://diegulio.github.io/posts/birdclef2023/main.html)
