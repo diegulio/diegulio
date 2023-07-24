@@ -28,15 +28,11 @@ My name is Diego Machado, as know as diegulio. I’m Data Scientist passionate a
 <!-- Workflow 1 -->
 <!-- BLOG-POST-LIST:END -->
 <!-- blog-post-list:start -->
-> Last updated: Monday, July 24, 2023 at 2:41:05 PM
-
-> Showing 5 of 5 posts.
-
-[![🎯 - Data ❤️ Chat: Chatea con tu Curriculum](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/🎯_-_Data_❤️_Chat__Chatea_con_tu_Curriculum.svg)](https://diegulio.github.io/posts/llm-cv-assistant/main.html)
-[![🎯 - Iniciando en LLM: Crea tu primera aplicación con LangChain y ChatGPT](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/🎯_-_Iniciando_en_LLM__Crea_tu_primera_aplicación_con_LangChain_y_ChatGPT.svg)](https://diegulio.github.io/posts/llm-recipe/main.html)
-[![🎯 - BirdClef 2023 Competition](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/🎯_-_BirdClef_2023_Competition.svg)](https://diegulio.github.io/posts/birdclef2023/main.html)
-[![🎯 - Back To Sit](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/🎯_-_Back_To_Sit.svg)](https://diegulio.github.io/posts/back_to_sit/main.html)
-[![🎯 - Identificando desastres en Twitter con NLP](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/🎯_-_Identificando_desastres_en_Twitter_con_NLP.svg)](https://diegulio.github.io/posts/kaggle_nlp_disaster/main.html)
+[![Data ❤️ Chat: Chatea con tu Curriculum](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/Data_❤️_Chat__Chatea_con_tu_Curriculum.svg)](https://diegulio.github.io/posts/llm-cv-assistant/main.html)
+[![Iniciando en LLM: Crea tu primera aplicación con LangChain y ChatGPT](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/Iniciando_en_LLM__Crea_tu_primera_aplicación_con_LangChain_y_ChatGPT.svg)](https://diegulio.github.io/posts/llm-recipe/main.html)
+[![BirdClef 2023 Competition](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/BirdClef_2023_Competition.svg)](https://diegulio.github.io/posts/birdclef2023/main.html)
+[![Back To Sit](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/Back_To_Sit.svg)](https://diegulio.github.io/posts/back_to_sit/main.html)
+[![Identificando desastres en Twitter con NLP](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/Identificando_desastres_en_Twitter_con_NLP.svg)](https://diegulio.github.io/posts/kaggle_nlp_disaster/main.html)
 
 
 <!-- blog-post-list:end -->
