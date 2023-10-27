@@ -8,7 +8,7 @@
 
 My name is Diego Machado, as know as diegulio. I’m Data Scientist passionate about Artificial Intelligence. Some of the areas where I have expertise are:
 
-- **[🎻](https://emojipedia.org/violin/)** Classical Machine Learning (Supervised)
+- 🎻 Classical Machine Learning (Supervised)
 - 📆 Time Series
 - ✍️ Natural Language Processing
 - 👁️ Computer Vision
