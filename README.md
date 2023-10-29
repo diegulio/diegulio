@@ -8,7 +8,7 @@
 
 My name is Diego Machado, as know as diegulio. I’m Data Scientist passionate about Artificial Intelligence. Some of the areas where I have expertise are:
 
-- **[🎻](https://emojipedia.org/violin/)** Classical Machine Learning (Supervised)
+- 🎻 Classical Machine Learning (Supervised)
 - 📆 Time Series
 - ✍️ Natural Language Processing
 - 👁️ Computer Vision
@@ -26,19 +26,12 @@ My name is Diego Machado, as know as diegulio. I’m Data Scientist passionate a
 
 ## Latest Blog posts 🦝 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- Workflow 1 -->
-<!-- BLOG-POST-LIST:END -->
 <!-- blog-post-list:start -->
-> Last updated: Monday, July 24, 2023 at 2:41:05 PM
-
-> Showing 5 of 5 posts.
-
+[![🎯 - Image Classification with Pytorch Lightning](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/🎯_-_Image_Classification_with_Pytorch_Lightning.svg)](https://diegulio.github.io/posts/pytorch_breed_classification/main.html)
 [![🎯 - Data ❤️ Chat: Chatea con tu Curriculum](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/🎯_-_Data_❤️_Chat__Chatea_con_tu_Curriculum.svg)](https://diegulio.github.io/posts/llm-cv-assistant/main.html)
 [![🎯 - Iniciando en LLM: Crea tu primera aplicación con LangChain y ChatGPT](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/🎯_-_Iniciando_en_LLM__Crea_tu_primera_aplicación_con_LangChain_y_ChatGPT.svg)](https://diegulio.github.io/posts/llm-recipe/main.html)
 [![🎯 - BirdClef 2023 Competition](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/🎯_-_BirdClef_2023_Competition.svg)](https://diegulio.github.io/posts/birdclef2023/main.html)
 [![🎯 - Back To Sit](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/🎯_-_Back_To_Sit.svg)](https://diegulio.github.io/posts/back_to_sit/main.html)
-[![🎯 - Identificando desastres en Twitter con NLP](https://raw.githubusercontent.com/diegulio/diegulio/main/blog-post-list-output/🎯/🎯_-_Identificando_desastres_en_Twitter_con_NLP.svg)](https://diegulio.github.io/posts/kaggle_nlp_disaster/main.html)
 
 
 <!-- blog-post-list:end -->
