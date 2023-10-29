@@ -17,9 +17,11 @@ My name is Diego Machado, as know as diegulio. I’m Data Scientist passionate a
 
 ## Some Cool Projects 🚀
 
-
+- 👁️ **[Pytorch Augmentations Illustrated](https://pytorch-transform-illustrations.streamlit.app):** Application to interactively interact with different data augmentations provided by Pytorch.
 - 🪑 **[Back to sit](https://pypi.org/project/back-to-sit/):** library who reports you by telegram when your code is done!
 - 🍝 **[LLM-Recipe](https://github.com/diegulio/llm-recipe)**: LLM-powered app which brings to you the ingredients and recipe to make a specific food
+- 📄 **[LLM-CV-Reviewer](https://github.com/diegulio/llm-recipe)**: LLM-powered app which App which helps you to review resumes
+- 🐕‍🦺 **[Pytorch-breed-Classification](https://github.com/diegulio/pytorch-breed-classification)**: PyTorch Lightning Image Classification Benchmark: Assess top CNN models on a diverse dataset of 120 dog breeds, cats, and 'none'. 
 - 👾 **[Pelao Invaders](https://github.com/diegulio/Pelao_invaders)**: Game made with pygame replicating space invaders
 
 ## Latest Blog posts 🦝 
